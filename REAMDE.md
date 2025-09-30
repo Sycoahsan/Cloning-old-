@@ -7,3 +7,4 @@ pip2 install requests
 pip2 install machanize
 git clone https://github.com/Sycoahsan/Cloning-old-.git
 cd Cloning-old-
+python ahsan_enc.py
